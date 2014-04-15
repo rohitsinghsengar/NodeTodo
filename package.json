@@ -1,7 +1,7 @@
 {
 "name"         : "node-todo",
 "version"      : "0.0.0",
-"description"  : "Simple todo application.",
+"description"  : "Simple Node Todo application.",
 "main"         : "server.js",
 "author"       : "Scotch",
 "dependencies" : {
