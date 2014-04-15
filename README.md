@@ -1,4 +1,4 @@
-NodeChat
+NodeTodo
 ========
 
-real time chat app with node js
+A todo app with node js
